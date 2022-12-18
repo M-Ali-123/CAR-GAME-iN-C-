@@ -1,0 +1,30 @@
+C:\Users\DELL\source\repos\WindowsFormsAppAli paf\WindowsFormsAppAli paf\bin\Debug\WindowsFormsAppAli paf.exe.config
+C:\Users\DELL\source\repos\WindowsFormsAppAli paf\WindowsFormsAppAli paf\bin\Debug\WindowsFormsAppAli paf.exe
+C:\Users\DELL\source\repos\WindowsFormsAppAli paf\WindowsFormsAppAli paf\bin\Debug\WindowsFormsAppAli paf.pdb
+C:\Users\DELL\source\repos\WindowsFormsAppAli paf\WindowsFormsAppAli paf\obj\Debug\WindowsFormsAppAli paf.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\WindowsFormsAppAli paf\WindowsFormsAppAli paf\obj\Debug\WindowsFormsAppAli_paf.Form1.resources
+C:\Users\DELL\source\repos\WindowsFormsAppAli paf\WindowsFormsAppAli paf\obj\Debug\WindowsFormsAppAli_paf.Properties.Resources.resources
+C:\Users\DELL\source\repos\WindowsFormsAppAli paf\WindowsFormsAppAli paf\obj\Debug\WindowsFormsAppAli paf.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\WindowsFormsAppAli paf\WindowsFormsAppAli paf\obj\Debug\WindowsFormsAppAli paf.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\WindowsFormsAppAli paf\WindowsFormsAppAli paf\obj\Debug\WindowsFormsAppAli paf.exe
+C:\Users\DELL\source\repos\WindowsFormsAppAli paf\WindowsFormsAppAli paf\obj\Debug\WindowsFormsAppAli paf.pdb
+C:\Users\MUGHAL SYSTEMS\Desktop\PF Projrct\WindowsFormsAppAli paf\bin\Debug\WindowsFormsAppAli paf.exe.config
+C:\Users\MUGHAL SYSTEMS\Desktop\PF Projrct\WindowsFormsAppAli paf\bin\Debug\WindowsFormsAppAli paf.exe
+C:\Users\MUGHAL SYSTEMS\Desktop\PF Projrct\WindowsFormsAppAli paf\bin\Debug\WindowsFormsAppAli paf.pdb
+C:\Users\MUGHAL SYSTEMS\Desktop\PF Projrct\WindowsFormsAppAli paf\obj\Debug\WindowsFormsAppAli paf.csprojAssemblyReference.cache
+C:\Users\MUGHAL SYSTEMS\Desktop\PF Projrct\WindowsFormsAppAli paf\obj\Debug\WindowsFormsAppAli_paf.Form1.resources
+C:\Users\MUGHAL SYSTEMS\Desktop\PF Projrct\WindowsFormsAppAli paf\obj\Debug\WindowsFormsAppAli_paf.Properties.Resources.resources
+C:\Users\MUGHAL SYSTEMS\Desktop\PF Projrct\WindowsFormsAppAli paf\obj\Debug\WindowsFormsAppAli paf.csproj.GenerateResource.cache
+C:\Users\MUGHAL SYSTEMS\Desktop\PF Projrct\WindowsFormsAppAli paf\obj\Debug\WindowsFormsAppAli paf.csproj.CoreCompileInputs.cache
+C:\Users\MUGHAL SYSTEMS\Desktop\PF Projrct\WindowsFormsAppAli paf\obj\Debug\WindowsFormsAppAli paf.exe
+C:\Users\MUGHAL SYSTEMS\Desktop\PF Projrct\WindowsFormsAppAli paf\obj\Debug\WindowsFormsAppAli paf.pdb
+C:\Users\MUGHAL SYSTEMS\Desktop\ALI UNI\PROGRAMMING FUNDAENTAL\PF Projrct\WindowsFormsAppAli paf\bin\Debug\WindowsFormsAppAli paf.exe.config
+C:\Users\MUGHAL SYSTEMS\Desktop\ALI UNI\PROGRAMMING FUNDAENTAL\PF Projrct\WindowsFormsAppAli paf\bin\Debug\WindowsFormsAppAli paf.exe
+C:\Users\MUGHAL SYSTEMS\Desktop\ALI UNI\PROGRAMMING FUNDAENTAL\PF Projrct\WindowsFormsAppAli paf\bin\Debug\WindowsFormsAppAli paf.pdb
+C:\Users\MUGHAL SYSTEMS\Desktop\ALI UNI\PROGRAMMING FUNDAENTAL\PF Projrct\WindowsFormsAppAli paf\obj\Debug\WindowsFormsAppAli paf.csprojAssemblyReference.cache
+C:\Users\MUGHAL SYSTEMS\Desktop\ALI UNI\PROGRAMMING FUNDAENTAL\PF Projrct\WindowsFormsAppAli paf\obj\Debug\WindowsFormsAppAli_paf.Form1.resources
+C:\Users\MUGHAL SYSTEMS\Desktop\ALI UNI\PROGRAMMING FUNDAENTAL\PF Projrct\WindowsFormsAppAli paf\obj\Debug\WindowsFormsAppAli_paf.Properties.Resources.resources
+C:\Users\MUGHAL SYSTEMS\Desktop\ALI UNI\PROGRAMMING FUNDAENTAL\PF Projrct\WindowsFormsAppAli paf\obj\Debug\WindowsFormsAppAli paf.csproj.GenerateResource.cache
+C:\Users\MUGHAL SYSTEMS\Desktop\ALI UNI\PROGRAMMING FUNDAENTAL\PF Projrct\WindowsFormsAppAli paf\obj\Debug\WindowsFormsAppAli paf.csproj.CoreCompileInputs.cache
+C:\Users\MUGHAL SYSTEMS\Desktop\ALI UNI\PROGRAMMING FUNDAENTAL\PF Projrct\WindowsFormsAppAli paf\obj\Debug\WindowsFormsAppAli paf.exe
+C:\Users\MUGHAL SYSTEMS\Desktop\ALI UNI\PROGRAMMING FUNDAENTAL\PF Projrct\WindowsFormsAppAli paf\obj\Debug\WindowsFormsAppAli paf.pdb
